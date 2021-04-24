@@ -20,4 +20,4 @@ I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanyagupta0201&show_icons=true&locale=en&layout=compact" alt="tanyagupta0201" /></p>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanyagupta0201&show_icons=true&locale=en" alt="tanyagupta0201" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanyagupta0201&show_icons=true&locale=en" alt="tanyagupta0201" /></p>
