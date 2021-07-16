@@ -25,6 +25,9 @@ I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyagupta0201)](https://github.com/tanyagupta/github-readme-stats)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
+
+
 
 
 
