@@ -26,3 +26,11 @@ I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyagupta0201)](https://github.com/tanyagupta/github-readme-stats)
 
 
+
+<center>
+<h2 align="center">GitHub Stats</h2>
+  <p align="center"><img src="https://metrics.lecoq.io/tanyagupta0201" alt="Github Metrics"></p>
+</center>
+
+
+
