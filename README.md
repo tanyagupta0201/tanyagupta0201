@@ -19,13 +19,11 @@ I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer 
 <br>
 <br>
 
-<center>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tanyagupta0201) 
 
 [![Tanya's github stats](https://github-readme-stats.vercel.app/api?username=tanyagupta0201&count_private=true&show_icons=true)](https://github.com/tanyagupta0201)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyagupta0201)](https://github.com/tanyagupta/github-readme-stats)
-</center>
 
 
 
