@@ -18,6 +18,7 @@ I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer 
 
 <br>
 <br>
+[![Tanya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tanyagupta0201&theme=xcode)](https://git.io/tanyagupta0201)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tanyagupta0201) 
 
