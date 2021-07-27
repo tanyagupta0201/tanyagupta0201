@@ -10,6 +10,7 @@ I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer 
 - 🌱 I’m currently focusing on **Android Development** and **Data Structures and Algorithms**.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - ⚡ Fun fact: In my free time, you'll find me sketching or watching some web series.
+-  Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
 
 <br>
 
