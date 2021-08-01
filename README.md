@@ -28,6 +28,11 @@ I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyagupta0201)](https://github.com/tanyagupta/github-readme-stats)
 
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/tanyagupta0201/count.svg" />
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
 
 
