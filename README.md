@@ -7,9 +7,9 @@
 I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.  <br> 
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
 
-- 🌱 I’m currently focusing on **Android Development** and **Data Structures and Algorithms**.
+- 🌱 I’m currently focusing on **Android Development** and practicing **Data Structures and Algorithms** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
-- ⚡ Fun fact: In my free time, you'll find me sketching or watching some web series.
+- ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
 -  Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
 
 <br>
@@ -19,12 +19,16 @@ I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer 
 
 <br>
 <br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=tanyagupta0201&show_icons=true&theme=bear" width = 460>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=tanyagupta0201&theme=dark&hide_border=false" width = 460>
+</p>
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=tanyagupta0201&theme=react-dark)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tanyagupta0201) 
 
-[![Tanya's github stats](https://github-readme-stats.vercel.app/api?username=tanyagupta0201&count_private=true&show_icons=true)](https://github.com/tanyagupta0201)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyagupta0201)](https://github.com/tanyagupta/github-readme-stats)
 
