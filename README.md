@@ -20,8 +20,8 @@ I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer 
 <br>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=tanyagupta0201&show_icons=true&theme=bear" width = 460>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=tanyagupta0201&theme=dark&hide_border=false" width = 460>
+  <img src = "https://github-readme-stats.vercel.app/api?username=tanyagupta0201&show_icons=true&theme=bear" width = 450>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=tanyagupta0201&theme=dark&hide_border=false" width = 450>
 </p>
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=tanyagupta0201&theme=react-dark)
