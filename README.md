@@ -10,7 +10,7 @@ I'm a third year CSE undergraduate pursuing B. Tech and a passionate programmer 
 - 🌱 I’m currently focusing on **Android Development** and practicing **Data Structures and Algorithms** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
--  Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
+-  Show some ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
 
 <br>
 
