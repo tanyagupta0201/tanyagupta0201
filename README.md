@@ -15,7 +15,7 @@ I'm a third year CSE undergraduate pursuing B. Tech and a passionate programmer 
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/000000/kotlin.png"/><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/></p>
+<p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/000000/kotlin.png"/> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/></p>
 
 <br>
 <br>
