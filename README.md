@@ -15,7 +15,10 @@ I'm a third year CSE undergraduate pursuing B. Tech and a passionate programmer 
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/000000/kotlin.png"/> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/></p>
+
+<p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="50"/></a><a href="https://developer.android.com" target="_blank"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="45"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a><a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/> </a>
+</p>
+
 
 <br>
 <br>
