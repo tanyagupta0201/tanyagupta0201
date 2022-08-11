@@ -2,6 +2,7 @@
 
 [![linkedin badge](https://img.shields.io/badge/tanyagupta0201-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanyagupta0201)
 [![Gmail Badge](https://img.shields.io/badge/tanyagupta.pg@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:tanyagupta.pg@gmail.com)
+[![leetcode badge](https://img.shields.io/badge/tanya02-30302f?style=flat&logo=leetcode)](https://https://leetcode.com/tanya02/)
 <img src="https://komarev.com/ghpvc/?username=tanyagupta0201&style=plastic" />
 
 I'm a final year CSE undergraduate pursuing B. Tech and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.  <br> 
